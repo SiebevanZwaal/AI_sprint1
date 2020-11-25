@@ -19,4 +19,5 @@ Doel van Het project:
 Een een grafische weergave bouwen die inzicht geeft in het gaming gedrag van jouw vrienden op het platform Steam. 
 
 Gebruikershandleiding:
-stap 1 Klik op run.
+Code en bijbehorende bestanden downloaden.
+Code runnen in pycharm.

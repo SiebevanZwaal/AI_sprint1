@@ -20,4 +20,5 @@ Een een grafische weergave bouwen die inzicht geeft in het gaming gedrag van jou
 
 Gebruikershandleiding:
 Code en bijbehorende bestanden downloaden.
-Code runnen in pycharm.
+Alle bestanden in een map stoppen.
+De map openen in pycharm en lees.py runnen.

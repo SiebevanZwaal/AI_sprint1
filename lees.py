@@ -4,7 +4,7 @@ from tkinter import Label
 
 
 def lees():
-    f = open('data/steam.json', "r")
+    f = open('steam.json', "r")
 
     data = json.loads(f.read())
     f.close()

@@ -21,4 +21,5 @@ Een een grafische weergave bouwen die inzicht geeft in het gaming gedrag van jou
 Gebruikershandleiding:
 Code en bijbehorende bestanden downloaden.
 Alle bestanden in een map stoppen.
+type int je terminal 'pip install matplotlib'.
 De map openen in pycharm en lees.py runnen.

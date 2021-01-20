@@ -6,7 +6,7 @@ from matplotlib import pyplot as plt
 
 def lees():
     '''reads json file with game data'''
-    f = open('data/steam.json', "r")
+    f = open('steam.json', "r")
     data = json.loads(f.read())
     f.close()
     return data
